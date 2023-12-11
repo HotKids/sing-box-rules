@@ -8,7 +8,6 @@ https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/Bilibili.ya
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/BilibiliSEA.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/CATCHPLAY+.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/CNTV.yaml
-https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/Client.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/Crunchyroll.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/DAZN.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/Discovery+.yaml
