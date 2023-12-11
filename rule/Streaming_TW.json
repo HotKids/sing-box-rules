@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "gamer-cds.cdn.hinet.net",
+        "gamer2-cds.cdn.hinet.net",
+        "asiaplay-origin.s3.amazonaws.com",
+        "tra-ww000-cp.akamaized.net",
+        "ols-ww000-cp.akamaized.net",
+        "ols-ww100-cp.akamaized.net",
+        "dkfhw9rzsr80z.cloudfront.net",
+        "aka01p.akamaized.net",
+        "aka02p.akamaized.net",
+        "aka36p.akamaized.net",
+        "hbolb.onwardsmg.com",
+        "hbounify-prod.evergent.com",
+        "dai3fd1oh325y.cloudfront.net",
+        "msg-intl.qy.net",
+        "ip.geo.iqiyi.com",
+        "intl-rcd.iqiyi.com",
+        "intl-subscription.iqiyi.com",
+        "intl-im-hist-api.iqiyi.com",
+        "akmcdnoversea.inter.iqiyi.com",
+        "akmcdnoversea.inter.ptqy.gitv.tv",
+        "chuangcachecdnoversea.inter.iqiyi.com",
+        "chuangcachecdnoversea.inter.ptqy.gitv.tv",
+        "akmcdnoversea-tw.inter.iqiyi.com",
+        "akmcdnoversea-tw.inter.ptqy.gitv.tv",
+        "chuangcachecdnoversea-tw.inter.iqiyi.com",
+        "chuangcachecdnoversea-tw.inter.ptqy.gitv.tv",
+        "kktv-theater.kk.stream",
+        "theater-kktv.cdn.hinet.net",
+        "d3c7rimkq79yfu.cloudfront.net",
+        "applemediaservice.keydelivery.southeastasia.media.azure.net",
+        "akamaiendpoint-applemediaservice-aase.streaming.media.azure.net"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "hbogoasia",
+        "akmcdnoverse",
+        "chuangcachecdnoversea"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "bahamut.com.tw",
+        "gamer.com.tw",
+        "catchplay.com",
+        "friday.tw",
+        "fridaylogger.com",
+        "svc.litv.tv",
+        "hboasia.com",
+        "hbogoasia.com",
+        "iq.com",
+        "intl.iqiyi.com",
+        "kkbox.com",
+        "kkbox.com.tw",
+        "kfs.io",
+        "kktv.me",
+        "kktv.com.tw",
+        "linetv.tw",
+        "myvideo.net.tw",
+        "catch.net.tw"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "2.21.22.17/32,no-resolve",
+        "23.40.241.251/32,no-resolve",
+        "23.40.242.10/32,no-resolve",
+        "110.238.107.47/32,no-resolve",
+        "110.238.109.184/32,no-resolve",
+        "114.119.175.88/32,no-resolve",
+        "118.26.32.0/22,no-resolve",
+        "159.138.102.146/32,no-resolve",
+        "203.80.97.208/32,no-resolve",
+        "203.198.80.99/32,no-resolve"
+      ]
+    }
+  ]
+}
