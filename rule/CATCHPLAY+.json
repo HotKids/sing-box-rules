@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "asiaplay-origin.s3.amazonaws.com",
+        "tra-ww000-cp.akamaized.net",
+        "ols-ww000-cp.akamaized.net",
+        "ols-ww100-cp.akamaized.net",
+        "dkfhw9rzsr80z.cloudfront.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "catchplay.com"
+      ]
+    }
+  ]
+}

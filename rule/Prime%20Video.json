@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "www.amazon.com",
+        "ktpx.amazon.com",
+        "atv-ps.amazon.com",
+        "avodmp4s3ww-a.akamaihd.net"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "avoddashs"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "primevideo.com",
+        "amazonvideo.com",
+        "media-amazon.com",
+        "pv-cdn.net",
+        "aiv-cdn.net",
+        "aiv-delivery.net"
+      ]
+    }
+  ]
+}

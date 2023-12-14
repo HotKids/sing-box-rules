@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "apm-misaka.biliapi.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "biliintl.com"
+      ]
+    }
+  ]
+}
