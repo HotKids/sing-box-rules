@@ -8,9 +8,6 @@
         "mi.gdt.qq.com",
         "open.e.kuaishou.com",
         "lookup.api.bsb.baidu.com",
-        "ossgw.alicdn.com",
-        "ems.youku.com",
-        "hudong.alicdn.com",
         "amap-aos-info-nogw.amap.com",
         "awaken.amap.com",
         "free-aos-cdn-image.amap.com",
@@ -61,7 +58,7 @@
         "rc-topic-api.bz.mgtv.com",
         "rprain.bz.mgtv.com",
         "rprain.log.mgtv.com",
-        "v  - IP.bz.mgtv.com",
+        "vip.bz.mgtv.com",
         "gdt.qq.com",
         "httpdns.music.163.com",
         "httpdns.n.netease.com",
@@ -85,7 +82,6 @@
         "pgdt.gtimg.cn",
         "rpt.gdt.qq.com",
         "tytx.m.cn.miaozhen.com",
-        "vv6.video.qq.com",
         "adstats.tencentmusic.com",
         "ad.tencentmusic.com",
         "adcdn.tencentmusic.com",
@@ -156,7 +152,6 @@
       "domain_suffix": [
         "miaozhen.com",
         "u3.ucweb.com",
-        "ut.taobao.com",
         "advp.apple.com",
         "iadsdk.apple.com",
         "pos.baidu.com",
@@ -175,7 +170,6 @@
     },
     {
       "ip_cidr": [
-        "203.107.1.1/24",
         "180.76.76.200/32",
         "101.124.19.122/32",
         "2402:db40:5100:1011::5/128",
