@@ -1,10 +1,15 @@
 {
-  "version": 1,
   "rules": [
     {
-      "domain_suffix": [
+      "domain": [
         "hotstar.com"
       ]
+    },
+    {
+      "domain_suffix": [
+        ".hotstar.com"
+      ]
     }
-  ]
+  ],
+  "version": 1
 }

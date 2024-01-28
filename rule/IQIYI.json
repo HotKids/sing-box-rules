@@ -1,9 +1,15 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
-        "cache.video.iqiyi.com"
+        "71.am",
+        "cache.video.iqiyi.com",
+        "gitv.tv",
+        "iq.com",
+        "iqiyi.com",
+        "iqiyipic.com",
+        "ptqy.gitv.tv",
+        "qy.net"
       ]
     },
     {
@@ -13,14 +19,15 @@
     },
     {
       "domain_suffix": [
-        "iqiyi.com",
-        "iqiyipic.com",
-        "iq.com",
-        "qy.net",
-        "gitv.tv",
-        "ptqy.gitv.tv",
-        "71.am"
+        ".71.am",
+        ".gitv.tv",
+        ".iq.com",
+        ".iqiyi.com",
+        ".iqiyipic.com",
+        ".ptqy.gitv.tv",
+        ".qy.net"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

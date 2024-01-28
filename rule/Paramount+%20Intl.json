@@ -1,15 +1,16 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
+        "intl.paramountplus.com",
         "wwwimage-intl.pplusstatic.com"
       ]
     },
     {
       "domain_suffix": [
-        "intl.paramountplus.com"
+        ".intl.paramountplus.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

@@ -1,18 +1,20 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
-        "wetv.tv.qq.com",
+        "hwvip.video.qq.com",
+        "iflix.com",
         "wetv.acc.qq.com",
-        "hwvip.video.qq.com"
+        "wetv.tv.qq.com",
+        "wetv.vip",
+        "wetvinfo.com"
       ]
     },
     {
       "domain_suffix": [
-        "wetv.vip",
-        "wetvinfo.com",
-        "iflix.com"
+        ".iflix.com",
+        ".wetv.vip",
+        ".wetvinfo.com"
       ]
     },
     {
@@ -20,5 +22,6 @@
         "150.109.28.51/32,no-resolve"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

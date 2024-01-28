@@ -1,17 +1,20 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
-        "psn.akadns.net"
+        "playstation.com",
+        "playstation.net",
+        "playstationnetwork.com",
+        "psn.akadns.net",
+        "sonyentertainmentnetwork.com"
       ]
     },
     {
       "domain_suffix": [
-        "playstation.net",
-        "playstation.com",
-        "playstationnetwork.com",
-        "sonyentertainmentnetwork.com"
+        ".playstation.com",
+        ".playstation.net",
+        ".playstationnetwork.com",
+        ".sonyentertainmentnetwork.com"
       ]
     },
     {
@@ -19,5 +22,6 @@
         "192.168.31.43/32"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

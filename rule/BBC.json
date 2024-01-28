@@ -1,12 +1,16 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
+        "bbc.co",
+        "bbc.co.uk",
+        "bbc.com",
+        "bbci.co",
+        "bbci.co.uk",
         "ssl-bbcsmarttv.2cnt.net",
         "vod-dash-uk-live.akamaized.net",
-        "vod-thumb-uk-live.akamaized.net",
         "vod-dash-uk-live.bbcfmt.hs.llnwd.net",
+        "vod-thumb-uk-live.akamaized.net",
         "vod-thumb-uk-live.bbcfmt.hs.llnwd.net"
       ]
     },
@@ -19,12 +23,13 @@
     },
     {
       "domain_suffix": [
-        "bbc.com",
-        "bbc.co",
-        "bbc.co.uk",
-        "bbci.co",
-        "bbci.co.uk"
+        ".bbc.co",
+        ".bbc.co.uk",
+        ".bbc.com",
+        ".bbci.co",
+        ".bbci.co.uk"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

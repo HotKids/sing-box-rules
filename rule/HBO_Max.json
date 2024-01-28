@@ -1,13 +1,21 @@
 {
-  "version": 1,
   "rules": [
     {
-      "domain_suffix": [
+      "domain": [
         "hbo.com",
-        "hbonow.com",
         "hbomax.com",
-        "hbomaxcdn.com"
+        "hbomaxcdn.com",
+        "hbonow.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".hbo.com",
+        ".hbomax.com",
+        ".hbomaxcdn.com",
+        ".hbonow.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

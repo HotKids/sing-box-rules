@@ -1,12 +1,19 @@
 {
-  "version": 1,
   "rules": [
     {
-      "domain_suffix": [
-        "hulu.jp",
+      "domain": [
         "happyon.jp",
+        "hulu.jp",
         "prod.hjholdings.tv"
       ]
+    },
+    {
+      "domain_suffix": [
+        ".happyon.jp",
+        ".hulu.jp",
+        ".prod.hjholdings.tv"
+      ]
     }
-  ]
+  ],
+  "version": 1
 }

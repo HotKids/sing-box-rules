@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -22,5 +21,6 @@
         "59.82.60.9/32,no-resolve"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

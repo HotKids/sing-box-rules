@@ -1,13 +1,7 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
-        "clientservices.googleapis.com",
-        "dl.google.com",
-        "dl.l.google.com",
-        "update.googleapis.com",
-        "mtalk.google.com",
         "alt1-mtalk.google.com",
         "alt2-mtalk.google.com",
         "alt3-mtalk.google.com",
@@ -16,19 +10,30 @@
         "alt6-mtalk.google.com",
         "alt7-mtalk.google.com",
         "alt8-mtalk.google.com",
+        "blog.google",
+        "clientservices.googleapis.com",
+        "cupid.iqiyi.com",
+        "dl.google.com",
+        "dl.l.google.com",
+        "dorangesource.alicdn.com",
+        "galaxyappstore.com",
+        "googletraveladservices.com",
+        "mtalk.google.com",
         "push.m.youku.com",
+        "samsungapps.com",
         "un-acs.youku.com",
-        "dorangesource.alicdn.com"
+        "update.googleapis.com"
       ]
     },
     {
       "domain_suffix": [
-        "blog.google",
-        "googletraveladservices.com",
-        "cupid.iqiyi.com",
-        "galaxyappstore.com",
-        "samsungapps.com"
+        ".blog.google",
+        ".cupid.iqiyi.com",
+        ".galaxyappstore.com",
+        ".googletraveladservices.com",
+        ".samsungapps.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

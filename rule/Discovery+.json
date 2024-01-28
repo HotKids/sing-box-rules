@@ -1,23 +1,26 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
-        "us1-prod.disco-api.com",
-        "us1-prod-images.disco-api.com",
-        "kvinit-prod.api.kochava.com",
         "4unal8ngvngjm07lj2q2umlc4.litix.io",
         "content-ause1-ur-discovery1.uplynk.com",
         "content-ausw1-ur-discovery1.uplynk.com",
-        "content-ausw2-ur-discovery1.uplynk.com"
+        "content-ausw2-ur-discovery1.uplynk.com",
+        "disco-api.com",
+        "discoveryplus.com",
+        "dnitv.com",
+        "kvinit-prod.api.kochava.com",
+        "us1-prod-images.disco-api.com",
+        "us1-prod.disco-api.com"
       ]
     },
     {
       "domain_suffix": [
-        "discoveryplus.com",
-        "disco-api.com",
-        "dnitv.com"
+        ".disco-api.com",
+        ".discoveryplus.com",
+        ".dnitv.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

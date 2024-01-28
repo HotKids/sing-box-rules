@@ -1,11 +1,17 @@
 {
-  "version": 1,
   "rules": [
     {
+      "domain": [
+        "discomax.com",
+        "max.com"
+      ]
+    },
+    {
       "domain_suffix": [
-        "max.com",
-        "discomax.com"
+        ".discomax.com",
+        ".max.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

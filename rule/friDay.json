@@ -1,19 +1,22 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
         "aka01p.akamaized.net",
         "aka02p.akamaized.net",
-        "aka36p.akamaized.net"
-      ]
-    },
-    {
-      "domain_suffix": [
+        "aka36p.akamaized.net",
         "friday.tw",
         "fridaylogger.com",
         "svc.litv.tv"
       ]
+    },
+    {
+      "domain_suffix": [
+        ".friday.tw",
+        ".fridaylogger.com",
+        ".svc.litv.tv"
+      ]
     }
-  ]
+  ],
+  "version": 1
 }

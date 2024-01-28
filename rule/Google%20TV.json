@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -8,5 +7,6 @@
         "www.googleapis.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

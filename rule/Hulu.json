@@ -1,17 +1,20 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
-        "cws-hulu.conviva.com"
-      ]
-    },
-    {
-      "domain_suffix": [
+        "cws-hulu.conviva.com",
         "hulu.com",
         "huluim.com",
         "hulustream.com"
       ]
+    },
+    {
+      "domain_suffix": [
+        ".hulu.com",
+        ".huluim.com",
+        ".hulustream.com"
+      ]
     }
-  ]
+  ],
+  "version": 1
 }

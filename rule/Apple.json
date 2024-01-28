@@ -1,20 +1,35 @@
 {
-  "version": 1,
   "rules": [
     {
-      "domain_suffix": [
-        "cdn-apple.com",
-        "mzstatic.com",
+      "domain": [
         "aaplimg.com",
         "apple.co",
         "apple.com",
+        "cdn-apple.com",
         "icloud-content.com",
         "icloud.com",
-        "itunes.com",
         "itunes.apple.com",
+        "itunes.com",
         "lookup-api.apple.com",
-        "me.com"
+        "me.com",
+        "mzstatic.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".aaplimg.com",
+        ".apple.co",
+        ".apple.com",
+        ".cdn-apple.com",
+        ".icloud-content.com",
+        ".icloud.com",
+        ".itunes.apple.com",
+        ".itunes.com",
+        ".lookup-api.apple.com",
+        ".me.com",
+        ".mzstatic.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

@@ -1,11 +1,17 @@
 {
-  "version": 1,
   "rules": [
     {
+      "domain": [
+        "sbs.com.au",
+        "sbsod.com"
+      ]
+    },
+    {
       "domain_suffix": [
-        "sbsod.com",
-        "sbs.com.au"
+        ".sbs.com.au",
+        ".sbsod.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

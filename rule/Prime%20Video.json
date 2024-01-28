@@ -1,12 +1,17 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
-        "www.amazon.com",
-        "ktpx.amazon.com",
+        "aiv-cdn.net",
+        "aiv-delivery.net",
+        "amazonvideo.com",
         "atv-ps.amazon.com",
-        "avodmp4s3ww-a.akamaihd.net"
+        "avodmp4s3ww-a.akamaihd.net",
+        "ktpx.amazon.com",
+        "media-amazon.com",
+        "primevideo.com",
+        "pv-cdn.net",
+        "www.amazon.com"
       ]
     },
     {
@@ -16,13 +21,14 @@
     },
     {
       "domain_suffix": [
-        "primevideo.com",
-        "amazonvideo.com",
-        "media-amazon.com",
-        "pv-cdn.net",
-        "aiv-cdn.net",
-        "aiv-delivery.net"
+        ".aiv-cdn.net",
+        ".aiv-delivery.net",
+        ".amazonvideo.com",
+        ".media-amazon.com",
+        ".primevideo.com",
+        ".pv-cdn.net"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

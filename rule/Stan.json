@@ -1,15 +1,16 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
-        "aws.stan.video"
+        "aws.stan.video",
+        "stan.com.au"
       ]
     },
     {
       "domain_suffix": [
-        "stan.com.au"
+        ".stan.com.au"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

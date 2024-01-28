@@ -1,15 +1,16 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
-        "apm-misaka.biliapi.net"
+        "apm-misaka.biliapi.net",
+        "biliintl.com"
       ]
     },
     {
       "domain_suffix": [
-        "biliintl.com"
+        ".biliintl.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

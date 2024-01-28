@@ -1,15 +1,25 @@
 {
-  "version": 1,
   "rules": [
     {
-      "domain_suffix": [
-        "lgtviot.com",
-        "lgtvsdp.com",
-        "lgtvlink.com",
+      "domain": [
         "lgappstv.com",
+        "lge.com",
         "lgeapi.com",
-        "lge.com"
+        "lgtviot.com",
+        "lgtvlink.com",
+        "lgtvsdp.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".lgappstv.com",
+        ".lge.com",
+        ".lgeapi.com",
+        ".lgtviot.com",
+        ".lgtvlink.com",
+        ".lgtvsdp.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }

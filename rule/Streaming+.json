@@ -1,23 +1,28 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
-        "prod-ripcut-delivery.disney-plus.net",
-        "thumbnails.cbsig.net",
+        "cbsaavideo.com",
         "cbsinteractive.hb.omtrdc.net",
         "cbsnews.akamaized.net",
-        "g002-vod-eu-cmaf-prd-cf.pcdn01.cssott.com"
+        "cssott.com",
+        "cws.conviva.com",
+        "g002-vod-eu-cmaf-prd-cf.pcdn01.cssott.com",
+        "media.dssott.com",
+        "mtvnservices.com",
+        "prod-ripcut-delivery.disney-plus.net",
+        "thumbnails.cbsig.net"
       ]
     },
     {
       "domain_suffix": [
-        "media.dssott.com",
-        "cbsaavideo.com",
-        "mtvnservices.com",
-        "cws.conviva.com",
-        "cssott.com"
+        ".cbsaavideo.com",
+        ".cssott.com",
+        ".cws.conviva.com",
+        ".media.dssott.com",
+        ".mtvnservices.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
