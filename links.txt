@@ -9,10 +9,12 @@ https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/BilibiliSEA
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/CATCHPLAY+.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/CNTV.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/Crunchyroll.yaml
+https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/Crypto.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/DAZN.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/Discovery+.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/Disney+.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/FOD.yaml
+https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/GenAI.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/Google%20Play.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/Google%20TV.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/HBO_Go.yaml
@@ -33,6 +35,7 @@ https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/OpenAI.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/Paramount+%20Intl.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/Paramount+.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/Paravi.yaml
+https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/PayPal.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/Peacock.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/PlayStation.yaml
 https://raw.githubusercontent.com/HotKids/Rules/master/Clash/RuleSet/Prime%20Video.yaml
