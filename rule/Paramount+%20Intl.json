@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "wwwimage-intl.pplusstatic.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "intl.paramountplus.com"
+      ]
+    }
+  ],
+  "version": 1
+}

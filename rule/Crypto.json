@@ -1,0 +1,35 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "binance.com",
+        "binance.info",
+        "bitcointalk.org",
+        "bitfinex.com",
+        "bitflyer.com",
+        "bitget.com",
+        "bithumb.com",
+        "bitstamp.net",
+        "bnbstatic.com",
+        "bybit.com",
+        "coinbase.com",
+        "coingecko.com",
+        "coinmarketcap.com",
+        "crypto.com",
+        "dydx.exchange",
+        "etherscan.io",
+        "gate.io",
+        "gemini.com",
+        "kraken.com",
+        "kucoin.com",
+        "mexc.com",
+        "okx.com",
+        "okx.com.cdn.cloudflare.net",
+        "probit.com",
+        "uniswap.org",
+        "upbit.com"
+      ]
+    }
+  ],
+  "version": 1
+}

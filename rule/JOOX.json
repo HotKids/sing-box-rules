@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "joox"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "joox.com"
+      ]
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "androidtvlauncherxfe-pa.googleapis.com",
+        "androidtvwatsonfe-pa.googleapis.com",
+        "www.googleapis.com"
+      ]
+    }
+  ],
+  "version": 1
+}

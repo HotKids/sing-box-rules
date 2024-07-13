@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "psn.akadns.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "playstation.com",
+        "playstation.net",
+        "playstationnetwork.com",
+        "sonyentertainmentnetwork.com"
+      ]
+    },
+    {
+      "source_ip_cidr": [
+        "192.168.31.43/32"
+      ]
+    }
+  ],
+  "version": 1
+}

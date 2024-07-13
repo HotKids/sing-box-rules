@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "roku.com",
+        "rokutime.com"
+      ]
+    }
+  ],
+  "version": 1
+}

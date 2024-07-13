@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "pscdn.co",
+        "scdn.co",
+        "spoti.fi",
+        "spotify.com"
+      ]
+    }
+  ],
+  "version": 1
+}

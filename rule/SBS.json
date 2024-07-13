@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "sbs.com.au",
+        "sbsod.com"
+      ]
+    }
+  ],
+  "version": 1
+}
