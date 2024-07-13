@@ -1,13 +1,8 @@
 {
   "rules": [
     {
-      "domain": [
-        "paravi.jp"
-      ]
-    },
-    {
       "domain_suffix": [
-        ".paravi.jp"
+        "paravi.jp"
       ]
     }
   ],

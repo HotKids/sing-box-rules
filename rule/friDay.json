@@ -4,17 +4,14 @@
       "domain": [
         "aka01p.akamaized.net",
         "aka02p.akamaized.net",
-        "aka36p.akamaized.net",
-        "friday.tw",
-        "fridaylogger.com",
-        "svc.litv.tv"
+        "aka36p.akamaized.net"
       ]
     },
     {
       "domain_suffix": [
-        ".friday.tw",
-        ".fridaylogger.com",
-        ".svc.litv.tv"
+        "friday.tw",
+        "fridaylogger.com",
+        "svc.litv.tv"
       ]
     }
   ],

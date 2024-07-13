@@ -1,13 +1,8 @@
 {
   "rules": [
     {
-      "domain": [
-        "skyshowtime.com"
-      ]
-    },
-    {
       "domain_suffix": [
-        ".skyshowtime.com"
+        "skyshowtime.com"
       ]
     }
   ],

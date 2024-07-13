@@ -1,17 +1,10 @@
 {
   "rules": [
     {
-      "domain": [
+      "domain_suffix": [
         "weibo.cn",
         "weibo.com",
         "weico.cc"
-      ]
-    },
-    {
-      "domain_suffix": [
-        ".weibo.cn",
-        ".weibo.com",
-        ".weico.cc"
       ]
     },
     {

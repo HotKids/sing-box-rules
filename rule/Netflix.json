@@ -1,17 +1,6 @@
 {
   "rules": [
     {
-      "domain": [
-        "netflix.com",
-        "netflix.net",
-        "nflxext.com",
-        "nflximg.com",
-        "nflximg.net",
-        "nflxso.net",
-        "nflxvideo.net"
-      ]
-    },
-    {
       "domain_keyword": [
         "dualstack.apiproxy-",
         "dualstack.ichnaea-web-",
@@ -20,13 +9,13 @@
     },
     {
       "domain_suffix": [
-        ".netflix.com",
-        ".netflix.net",
-        ".nflxext.com",
-        ".nflximg.com",
-        ".nflximg.net",
-        ".nflxso.net",
-        ".nflxvideo.net"
+        "netflix.com",
+        "netflix.net",
+        "nflxext.com",
+        "nflximg.com",
+        "nflximg.net",
+        "nflxso.net",
+        "nflxvideo.net"
       ]
     },
     {

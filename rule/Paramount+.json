@@ -2,22 +2,18 @@
   "rules": [
     {
       "domain": [
-        "cbsi.com",
         "cbsi.live.ott.irdeto.com",
-        "cbsivideo.com",
         "cbsplaylistserver.aws.syncbak.com",
         "cbsservice.aws.syncbak.com",
-        "link.theplatform.com",
-        "paramountplus.com",
-        "pplusstatic.com"
+        "link.theplatform.com"
       ]
     },
     {
       "domain_suffix": [
-        ".cbsi.com",
-        ".cbsivideo.com",
-        ".paramountplus.com",
-        ".pplusstatic.com"
+        "cbsi.com",
+        "cbsivideo.com",
+        "paramountplus.com",
+        "pplusstatic.com"
       ]
     }
   ],

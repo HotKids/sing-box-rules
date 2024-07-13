@@ -2,22 +2,18 @@
   "rules": [
     {
       "domain": [
-        "abema.io",
-        "abema.tv",
         "abematv.akamaized.net",
-        "ameba.jp",
         "ds-linear-abematv.akamaized.net",
         "ds-vod-abematv.akamaized.net",
-        "hayabusa.io",
         "linear-abematv.akamaized.net"
       ]
     },
     {
       "domain_suffix": [
-        ".abema.io",
-        ".abema.tv",
-        ".ameba.jp",
-        ".hayabusa.io"
+        "abema.io",
+        "abema.tv",
+        "ameba.jp",
+        "hayabusa.io"
       ]
     }
   ],

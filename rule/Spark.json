@@ -2,26 +2,19 @@
   "rules": [
     {
       "domain": [
-        "gmail.com",
         "imap.vodafone.de",
+        "smtp.vodafone.de"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "gmail.com",
         "live.com",
         "mail.infomaniak.com",
         "mail.me.com",
         "mail.yahoo.com",
         "outlook.com",
-        "smtp.vodafone.de",
         "vodafonemail.de"
-      ]
-    },
-    {
-      "domain_suffix": [
-        ".gmail.com",
-        ".live.com",
-        ".mail.infomaniak.com",
-        ".mail.me.com",
-        ".mail.yahoo.com",
-        ".outlook.com",
-        ".vodafonemail.de"
       ]
     }
   ],

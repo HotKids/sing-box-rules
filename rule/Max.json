@@ -1,15 +1,9 @@
 {
   "rules": [
     {
-      "domain": [
+      "domain_suffix": [
         "discomax.com",
         "max.com"
-      ]
-    },
-    {
-      "domain_suffix": [
-        ".discomax.com",
-        ".max.com"
       ]
     }
   ],

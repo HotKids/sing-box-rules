@@ -2,15 +2,9 @@
   "rules": [
     {
       "domain": [
-        "aiv-cdn.net",
-        "aiv-delivery.net",
-        "amazonvideo.com",
         "atv-ps.amazon.com",
         "avodmp4s3ww-a.akamaihd.net",
         "ktpx.amazon.com",
-        "media-amazon.com",
-        "primevideo.com",
-        "pv-cdn.net",
         "www.amazon.com"
       ]
     },
@@ -21,12 +15,12 @@
     },
     {
       "domain_suffix": [
-        ".aiv-cdn.net",
-        ".aiv-delivery.net",
-        ".amazonvideo.com",
-        ".media-amazon.com",
-        ".primevideo.com",
-        ".pv-cdn.net"
+        "aiv-cdn.net",
+        "aiv-delivery.net",
+        "amazonvideo.com",
+        "media-amazon.com",
+        "primevideo.com",
+        "pv-cdn.net"
       ]
     }
   ],

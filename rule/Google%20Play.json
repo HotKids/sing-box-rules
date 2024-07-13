@@ -1,15 +1,9 @@
 {
   "rules": [
     {
-      "domain": [
+      "domain_suffix": [
         "services.googleapis.cn",
         "xn--ngstr-lra8j.com"
-      ]
-    },
-    {
-      "domain_suffix": [
-        ".services.googleapis.cn",
-        ".xn--ngstr-lra8j.com"
       ]
     }
   ],

@@ -3,7 +3,6 @@
     {
       "domain": [
         "asiaplay-origin.s3.amazonaws.com",
-        "catchplay.com",
         "dkfhw9rzsr80z.cloudfront.net",
         "ols-ww000-cp.akamaized.net",
         "ols-ww100-cp.akamaized.net",
@@ -12,7 +11,7 @@
     },
     {
       "domain_suffix": [
-        ".catchplay.com"
+        "catchplay.com"
       ]
     }
   ],

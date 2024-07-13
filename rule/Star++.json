@@ -1,13 +1,8 @@
 {
   "rules": [
     {
-      "domain": [
-        "media.starott.com"
-      ]
-    },
-    {
       "domain_suffix": [
-        ".media.starott.com"
+        "media.starott.com"
       ]
     }
   ],

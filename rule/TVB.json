@@ -1,12 +1,6 @@
 {
   "rules": [
     {
-      "domain": [
-        "mytvsuper.com",
-        "tvb.com"
-      ]
-    },
-    {
       "domain_keyword": [
         "nowtv100",
         "rthklive"
@@ -14,8 +8,8 @@
     },
     {
       "domain_suffix": [
-        ".mytvsuper.com",
-        ".tvb.com"
+        "mytvsuper.com",
+        "tvb.com"
       ]
     }
   ],

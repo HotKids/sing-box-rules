@@ -3,15 +3,13 @@
     {
       "domain": [
         "akamaiendpoint-applemediaservice-aase.streaming.media.azure.net",
-        "applemediaservice.keydelivery.southeastasia.media.azure.net",
-        "catch.net.tw",
-        "myvideo.net.tw"
+        "applemediaservice.keydelivery.southeastasia.media.azure.net"
       ]
     },
     {
       "domain_suffix": [
-        ".catch.net.tw",
-        ".myvideo.net.tw"
+        "catch.net.tw",
+        "myvideo.net.tw"
       ]
     }
   ],

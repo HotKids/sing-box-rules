@@ -2,13 +2,12 @@
   "rules": [
     {
       "domain": [
-        "vod-interyk.youku.tv",
-        "youku.tv"
+        "vod-interyk.youku.tv"
       ]
     },
     {
       "domain_suffix": [
-        ".youku.tv"
+        "youku.tv"
       ]
     },
     {

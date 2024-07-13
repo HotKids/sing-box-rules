@@ -2,8 +2,6 @@
   "rules": [
     {
       "domain": [
-        "googlevideo.com",
-        "youtu.be",
         "youtubei.googleapis.com"
       ]
     },
@@ -14,8 +12,8 @@
     },
     {
       "domain_suffix": [
-        ".googlevideo.com",
-        ".youtu.be"
+        "googlevideo.com",
+        "youtu.be"
       ]
     }
   ],

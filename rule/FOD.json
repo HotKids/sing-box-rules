@@ -2,15 +2,13 @@
   "rules": [
     {
       "domain": [
-        "fujitv.co.jp",
-        "measure.ic.tver.jp",
-        "stream.ne.jp"
+        "measure.ic.tver.jp"
       ]
     },
     {
       "domain_suffix": [
-        ".fujitv.co.jp",
-        ".stream.ne.jp"
+        "fujitv.co.jp",
+        "stream.ne.jp"
       ]
     }
   ],

@@ -5,14 +5,13 @@
         "hls-amt.itunes.apple.com",
         "hls.itunes.apple.com",
         "play-edge.itunes.apple.com",
-        "tv.apple.com",
         "tv.applemusic.com",
         "uts-api.itunes.apple.com"
       ]
     },
     {
       "domain_suffix": [
-        ".tv.apple.com"
+        "tv.apple.com"
       ]
     }
   ],

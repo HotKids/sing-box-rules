@@ -3,8 +3,6 @@
     {
       "domain": [
         "dai3fd1oh325y.cloudfront.net",
-        "hboasia.com",
-        "hbogoasia.com",
         "hbolb.onwardsmg.com",
         "hbounify-prod.evergent.com"
       ]
@@ -16,8 +14,8 @@
     },
     {
       "domain_suffix": [
-        ".hboasia.com",
-        ".hbogoasia.com"
+        "hboasia.com",
+        "hbogoasia.com"
       ]
     }
   ],

@@ -10,28 +10,23 @@
         "alt6-mtalk.google.com",
         "alt7-mtalk.google.com",
         "alt8-mtalk.google.com",
-        "blog.google",
         "clientservices.googleapis.com",
-        "cupid.iqiyi.com",
         "dl.google.com",
         "dl.l.google.com",
         "dorangesource.alicdn.com",
-        "galaxyappstore.com",
-        "googletraveladservices.com",
         "mtalk.google.com",
         "push.m.youku.com",
-        "samsungapps.com",
         "un-acs.youku.com",
         "update.googleapis.com"
       ]
     },
     {
       "domain_suffix": [
-        ".blog.google",
-        ".cupid.iqiyi.com",
-        ".galaxyappstore.com",
-        ".googletraveladservices.com",
-        ".samsungapps.com"
+        "blog.google",
+        "cupid.iqiyi.com",
+        "galaxyappstore.com",
+        "googletraveladservices.com",
+        "samsungapps.com"
       ]
     }
   ],

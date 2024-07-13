@@ -1,18 +1,13 @@
 {
   "rules": [
     {
-      "domain": [
-        "joox.com"
-      ]
-    },
-    {
       "domain_keyword": [
         "joox"
       ]
     },
     {
       "domain_suffix": [
-        ".joox.com"
+        "joox.com"
       ]
     }
   ],

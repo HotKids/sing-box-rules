@@ -1,13 +1,8 @@
 {
   "rules": [
     {
-      "domain": [
-        "readmoo.com"
-      ]
-    },
-    {
       "domain_suffix": [
-        ".readmoo.com"
+        "readmoo.com"
       ]
     }
   ],

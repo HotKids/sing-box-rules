@@ -1,13 +1,8 @@
 {
   "rules": [
     {
-      "domain": [
-        "crunchyroll.com"
-      ]
-    },
-    {
       "domain_suffix": [
-        ".crunchyroll.com"
+        "crunchyroll.com"
       ]
     }
   ],

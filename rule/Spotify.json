@@ -1,19 +1,11 @@
 {
   "rules": [
     {
-      "domain": [
+      "domain_suffix": [
         "pscdn.co",
         "scdn.co",
         "spoti.fi",
         "spotify.com"
-      ]
-    },
-    {
-      "domain_suffix": [
-        ".pscdn.co",
-        ".scdn.co",
-        ".spoti.fi",
-        ".spotify.com"
       ]
     }
   ],

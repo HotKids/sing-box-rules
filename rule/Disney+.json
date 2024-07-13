@@ -3,25 +3,20 @@
     {
       "domain": [
         "cdn.registerdisney.go.com",
-        "disney-plus.net",
         "disney.api.edge.bamgrid.com",
         "disney.connections.edge.bamgrid.com",
         "disney.content.edge.bamgrid.com",
         "disney.playback.edge.bamgrid.com",
-        "disneyplus.com",
-        "disneystreaming.com",
-        "dssott.com",
-        "execute-api.us-east-1.amazonaws.com",
         "vpe-static.bamgrid.com"
       ]
     },
     {
       "domain_suffix": [
-        ".disney-plus.net",
-        ".disneyplus.com",
-        ".disneystreaming.com",
-        ".dssott.com",
-        ".execute-api.us-east-1.amazonaws.com"
+        "disney-plus.net",
+        "disneyplus.com",
+        "disneystreaming.com",
+        "dssott.com",
+        "execute-api.us-east-1.amazonaws.com"
       ]
     }
   ],

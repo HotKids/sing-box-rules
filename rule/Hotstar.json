@@ -1,13 +1,8 @@
 {
   "rules": [
     {
-      "domain": [
-        "hotstar.com"
-      ]
-    },
-    {
       "domain_suffix": [
-        ".hotstar.com"
+        "hotstar.com"
       ]
     }
   ],

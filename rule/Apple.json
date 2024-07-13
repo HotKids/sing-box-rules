@@ -1,7 +1,7 @@
 {
   "rules": [
     {
-      "domain": [
+      "domain_suffix": [
         "aaplimg.com",
         "apple.co",
         "apple.com",
@@ -13,21 +13,6 @@
         "lookup-api.apple.com",
         "me.com",
         "mzstatic.com"
-      ]
-    },
-    {
-      "domain_suffix": [
-        ".aaplimg.com",
-        ".apple.co",
-        ".apple.com",
-        ".cdn-apple.com",
-        ".icloud-content.com",
-        ".icloud.com",
-        ".itunes.apple.com",
-        ".itunes.com",
-        ".lookup-api.apple.com",
-        ".me.com",
-        ".mzstatic.com"
       ]
     }
   ],

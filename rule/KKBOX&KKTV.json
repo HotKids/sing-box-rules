@@ -2,22 +2,17 @@
   "rules": [
     {
       "domain": [
-        "kfs.io",
-        "kkbox.com",
-        "kkbox.com.tw",
         "kktv-theater.kk.stream",
-        "kktv.com.tw",
-        "kktv.me",
         "theater-kktv.cdn.hinet.net"
       ]
     },
     {
       "domain_suffix": [
-        ".kfs.io",
-        ".kkbox.com",
-        ".kkbox.com.tw",
-        ".kktv.com.tw",
-        ".kktv.me"
+        "kfs.io",
+        "kkbox.com",
+        "kkbox.com.tw",
+        "kktv.com.tw",
+        "kktv.me"
       ]
     }
   ],

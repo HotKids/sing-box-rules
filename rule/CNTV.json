@@ -2,39 +2,24 @@
   "rules": [
     {
       "domain": [
-        "acg.tv",
-        "acgvideo.com",
         "akmcdnoversea-tw.inter.iqiyi.com",
         "akmcdnoversea-tw.inter.ptqy.gitv.tv",
         "akmcdnoversea.inter.iqiyi.com",
         "akmcdnoversea.inter.ptqy.gitv.tv",
         "apiintl.biliapi.net",
         "apm-misaka.biliapi.net",
-        "b23.tv",
-        "biliapi.com",
-        "biliapi.net",
-        "bilibili.com",
-        "bilibili.tv",
-        "biliintl.com",
-        "bilivideo.com",
         "chuangcachecdnoversea-tw.inter.iqiyi.com",
         "chuangcachecdnoversea-tw.inter.ptqy.gitv.tv",
         "chuangcachecdnoversea.inter.iqiyi.com",
         "chuangcachecdnoversea.inter.ptqy.gitv.tv",
-        "hdslb.com",
         "hwvip.video.qq.com",
-        "iflix.com",
         "intl-im-hist-api.iqiyi.com",
         "intl-rcd.iqiyi.com",
         "intl-subscription.iqiyi.com",
-        "intl.iqiyi.com",
-        "iq.com",
         "upos-hz-mirrorakam.akamaized.net",
         "vod-interyk.youku.tv",
         "wetv.acc.qq.com",
-        "wetv.tv.qq.com",
-        "wetv.vip",
-        "wetvinfo.com"
+        "wetv.tv.qq.com"
       ]
     },
     {
@@ -47,21 +32,21 @@
     },
     {
       "domain_suffix": [
-        ".acg.tv",
-        ".acgvideo.com",
-        ".b23.tv",
-        ".biliapi.com",
-        ".biliapi.net",
-        ".bilibili.com",
-        ".bilibili.tv",
-        ".biliintl.com",
-        ".bilivideo.com",
-        ".hdslb.com",
-        ".iflix.com",
-        ".intl.iqiyi.com",
-        ".iq.com",
-        ".wetv.vip",
-        ".wetvinfo.com"
+        "acg.tv",
+        "acgvideo.com",
+        "b23.tv",
+        "biliapi.com",
+        "biliapi.net",
+        "bilibili.com",
+        "bilibili.tv",
+        "biliintl.com",
+        "bilivideo.com",
+        "hdslb.com",
+        "iflix.com",
+        "intl.iqiyi.com",
+        "iq.com",
+        "wetv.vip",
+        "wetvinfo.com"
       ]
     },
     {

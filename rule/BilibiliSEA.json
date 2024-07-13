@@ -2,13 +2,12 @@
   "rules": [
     {
       "domain": [
-        "apm-misaka.biliapi.net",
-        "biliintl.com"
+        "apm-misaka.biliapi.net"
       ]
     },
     {
       "domain_suffix": [
-        ".biliintl.com"
+        "biliintl.com"
       ]
     }
   ],

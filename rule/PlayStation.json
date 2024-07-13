@@ -2,19 +2,15 @@
   "rules": [
     {
       "domain": [
-        "playstation.com",
-        "playstation.net",
-        "playstationnetwork.com",
-        "psn.akadns.net",
-        "sonyentertainmentnetwork.com"
+        "psn.akadns.net"
       ]
     },
     {
       "domain_suffix": [
-        ".playstation.com",
-        ".playstation.net",
-        ".playstationnetwork.com",
-        ".sonyentertainmentnetwork.com"
+        "playstation.com",
+        "playstation.net",
+        "playstationnetwork.com",
+        "sonyentertainmentnetwork.com"
       ]
     },
     {

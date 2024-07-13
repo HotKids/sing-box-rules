@@ -2,16 +2,7 @@
   "rules": [
     {
       "domain": [
-        "acg.tv",
-        "acgvideo.com",
         "apiintl.biliapi.net",
-        "b23.tv",
-        "biliapi.com",
-        "biliapi.net",
-        "bilibili.com",
-        "bilibili.tv",
-        "bilivideo.com",
-        "hdslb.com",
         "upos-hz-mirrorakam.akamaized.net"
       ]
     },
@@ -23,15 +14,15 @@
     },
     {
       "domain_suffix": [
-        ".acg.tv",
-        ".acgvideo.com",
-        ".b23.tv",
-        ".biliapi.com",
-        ".biliapi.net",
-        ".bilibili.com",
-        ".bilibili.tv",
-        ".bilivideo.com",
-        ".hdslb.com"
+        "acg.tv",
+        "acgvideo.com",
+        "b23.tv",
+        "biliapi.com",
+        "biliapi.net",
+        "bilibili.com",
+        "bilibili.tv",
+        "bilivideo.com",
+        "hdslb.com"
       ]
     },
     {

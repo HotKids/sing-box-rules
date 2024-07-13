@@ -13,9 +13,7 @@
         "intl-im-hist-api.iqiyi.com",
         "intl-rcd.iqiyi.com",
         "intl-subscription.iqiyi.com",
-        "intl.iqiyi.com",
         "ip.geo.iqiyi.com",
-        "iq.com",
         "msg-intl.qy.net"
       ]
     },
@@ -27,8 +25,8 @@
     },
     {
       "domain_suffix": [
-        ".intl.iqiyi.com",
-        ".iq.com"
+        "intl.iqiyi.com",
+        "iq.com"
       ]
     },
     {
