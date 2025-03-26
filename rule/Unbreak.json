@@ -16,16 +16,25 @@
         "dorangesource.alicdn.com",
         "mtalk.google.com",
         "push.m.youku.com",
+        "time.windows.com",
         "un-acs.youku.com",
         "update.googleapis.com"
+      ]
+    },
+    {
+      "domain_regex": [
+        "*mtalk*.google.com"
       ]
     },
     {
       "domain_suffix": [
         "blog.google",
         "cupid.iqiyi.com",
+        "dler.cloud",
         "galaxyappstore.com",
         "googletraveladservices.com",
+        "nexconvert.com",
+        "qtt-163cdn.com",
         "samsungapps.com"
       ]
     }
