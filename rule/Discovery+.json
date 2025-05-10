@@ -15,7 +15,9 @@
       "domain_suffix": [
         "disco-api.com",
         "discoveryplus.com",
-        "dnitv.com"
+        "dnitv.com",
+        "dplus-amer.prd.api.discomax.com",
+        "dplus.us.prd.media.max.com"
       ]
     }
   ],
