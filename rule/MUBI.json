@@ -1,11 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_suffix": [
-        "mubi.com",
-        "mubicdn.net"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 1
 }

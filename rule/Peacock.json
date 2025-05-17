@@ -1,10 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_suffix": [
-        "peacocktv.com"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 1
 }
