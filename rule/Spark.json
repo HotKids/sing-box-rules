@@ -8,7 +8,10 @@
     },
     {
       "domain_suffix": [
+        "fastmail.com",
         "gmail.com",
+        "googlemail.com",
+        "hotmail.com",
         "live.com",
         "mail.infomaniak.com",
         "mail.me.com",
