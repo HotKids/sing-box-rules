@@ -1,6 +1,11 @@
 {
   "rules": [
     {
+      "domain_keyword": [
+        "okx-dns"
+      ]
+    },
+    {
       "domain_suffix": [
         "binance.com",
         "binance.info",
